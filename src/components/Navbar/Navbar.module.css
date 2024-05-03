@@ -1,0 +1,62 @@
+a:-webkit-any-link {
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn{
+    color: white;
+    background-color: transparent;
+    border-radius: 8px;
+    border-color: azure;
+    border-width: 1px;
+    border-style: solid;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-family: Verdana;
+}
+.flexCenter{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+li{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.logo{
+    margin-left: 20px;
+}
+
+.btnSec{
+    margin-right: 20px;
+}
+.marR{
+    margin-right: 6px;
+}
+.marL{
+    margin-left:6px;
+}
+.flexContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.flexContainerList{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.navbar{
+    background-color:green;
+    margin: 0px;
+    padding: 0px;
+}
+.noMP{
+    margin: 0px;
+    padding: 0px;
+}
